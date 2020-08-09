@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c7acd15.chunk.css",
+    "main.js": "/static/js/main.b06ebef3.chunk.js",
+    "main.js.map": "/static/js/main.b06ebef3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9075e973.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9075e973.js.map",
+    "static/css/2.d97600f8.chunk.css": "/static/css/2.d97600f8.chunk.css",
+    "static/js/2.319ee88a.chunk.js": "/static/js/2.319ee88a.chunk.js",
+    "static/js/2.319ee88a.chunk.js.map": "/static/js/2.319ee88a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dd814e84e04a0eb98fcf78b30ddb6963.js": "/precache-manifest.dd814e84e04a0eb98fcf78b30ddb6963.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d97600f8.chunk.css.map": "/static/css/2.d97600f8.chunk.css.map",
+    "static/css/main.8c7acd15.chunk.css.map": "/static/css/main.8c7acd15.chunk.css.map",
+    "static/js/2.319ee88a.chunk.js.LICENSE.txt": "/static/js/2.319ee88a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/austin-edwards-QcO0TNNoqig-unsplash.e9b68ba1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9075e973.js",
+    "static/css/2.d97600f8.chunk.css",
+    "static/js/2.319ee88a.chunk.js",
+    "static/css/main.8c7acd15.chunk.css",
+    "static/js/main.b06ebef3.chunk.js"
+  ]
+}
