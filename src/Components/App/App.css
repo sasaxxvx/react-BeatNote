@@ -1,0 +1,67 @@
+body,
+html,
+#root {
+  height: 100%;
+}
+
+html {
+  font-size: 18px;
+}
+
+h1 {
+  padding: 2rem 0;
+  background-color:black;
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+  font-weight: bolder;
+  font-size: 3rem;
+  color: #fff;
+   position:sticky;
+    top: 0;
+    z-index: 1;
+}
+
+h1 .highlight {
+  color: #6c41ec;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.55rem;
+}
+
+.App {
+  height: 100%;
+  padding: 0 10% 10% 10%;
+  background: #fff;
+  background-image: url('./austin-edwards-QcO0TNNoqig-unsplash.jpg');
+  
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+  color: #fff;
+}
+
+.greeting{
+  text-align: center;
+  padding-top: 150px;
+  font-size: 2rem;
+}
+
+.App-playlist-playlistList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  width: 100%;
+}
+
+@media only screen and (max-width: 1020px) {
+  .App-playlist {
+    align-items: center;
+    flex-direction: column;
+  }
+}
